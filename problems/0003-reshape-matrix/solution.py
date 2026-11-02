@@ -1,0 +1,1 @@
+def reshape_matrix(a, new_shape): return __import__("numpy").array(a).reshape(new_shape).tolist() if __import__("numpy").array(a).size == new_shape[0]*new_shape[1] else []

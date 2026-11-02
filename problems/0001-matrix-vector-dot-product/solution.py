@@ -1,0 +1,1 @@
+def matrix_dot_vector(a, b): return -1 if any(len(row) != len(b) for row in a) else [sum(x*y for x,y in zip(row,b)) for row in a]

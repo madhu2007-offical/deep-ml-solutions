@@ -1,0 +1,1 @@
+def transpose_matrix(a): return [list(col) for col in zip(*a)]

@@ -1,0 +1,1 @@
+def calculate_matrix_mean(matrix, mode): return [sum(group)/len(group) for group in (matrix if mode == "row" else zip(*matrix))]

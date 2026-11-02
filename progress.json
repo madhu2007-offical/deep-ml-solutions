@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-11-17T17:17:39.892Z",
+  "items": {
+    "problem:489": {
+      "kind": "problem",
+      "id": "489",
+      "title": "Log-Probability Ratio for Token Sequences",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/489",
+      "path": "problems/0489-log-probability-ratio-for-token-sequences",
+      "first_solved_at": "2026-11-02T02:05:09.358Z",
+      "last_pushed_at": "2026-11-02T02:05:09.358Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-11-02T20:20:11.729Z",
+      "last_pushed_at": "2026-11-02T20:20:11.729Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-11-02T20:21:37.258Z",
+      "last_pushed_at": "2026-11-02T20:21:37.258Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-11-02T20:22:15.292Z",
+      "last_pushed_at": "2026-11-02T20:22:15.292Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-11-02T20:22:49.176Z",
+      "last_pushed_at": "2026-11-02T20:22:49.176Z",
+      "language": "python",
+      "lines": 1
+    }
+  }
+}
