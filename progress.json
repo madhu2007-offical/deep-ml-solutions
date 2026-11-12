@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:17:53.581Z",
+  "generated_at": "2026-11-17T17:17:55.593Z",
   "items": {
     "problem:489": {
       "kind": "problem",
@@ -156,6 +156,19 @@
       "last_pushed_at": "2026-11-11T17:52:56.495Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:608": {
+      "kind": "problem",
+      "id": "608",
+      "title": "Step-Size Selection for Tile Coding",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/608",
+      "path": "problems/0608-step-size-selection-for-tile-coding",
+      "first_solved_at": "2026-11-12T07:27:22.720Z",
+      "last_pushed_at": "2026-11-12T07:27:22.720Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
