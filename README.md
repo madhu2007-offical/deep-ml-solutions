@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 19 problems · 0 labs · 0 math
+**20** solved · 20 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Memory Complexity: Full Space-Time vs. ST-Factorized Attention](https://www.deep-ml.com/problems/725) | medium | 2026-11-11 | [solution](problems/0725-memory-complexity-full-space-time-vs-st-factorized-attention) |
 | [Order-n Polynomial Basis for Value Prediction](https://www.deep-ml.com/problems/1690) | medium | 2026-11-16 | [solution](problems/1690-order-n-polynomial-basis-for-value-prediction) |
 | [Pooled Mean and Pooled Standard Deviation from Summary Stats](https://www.deep-ml.com/problems/1244) | medium | 2026-11-15 | [solution](problems/1244-pooled-mean-and-pooled-standard-deviation-from-summary-stats) |
+| [Random Sample Greedy Search](https://www.deep-ml.com/problems/638) | medium | 2026-11-19 | [solution](problems/0638-random-sample-greedy-search) |
 | [Floor-Division and Modulo Folding for Index Math](https://www.deep-ml.com/problems/1513) | hard | 2026-11-14 | [solution](problems/1513-floor-division-and-modulo-folding-for-index-math) |
 
 ---
