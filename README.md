@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 25 problems · 0 labs · 0 math
+**26** solved · 26 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Loss-of-Plasticity Diagnostics: Dormant Units and Effective Rank](https://www.deep-ml.com/problems/1595) | easy | 2026-11-05 | [solution](problems/1595-loss-of-plasticity-diagnostics-dormant-units-and-effective-rank) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-02 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-11-17 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
+| [Optimal Policy from a Loss Matrix](https://www.deep-ml.com/problems/1755) | easy | 2026-11-23 | [solution](problems/1755-optimal-policy-from-a-loss-matrix) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-02 | [solution](problems/0003-reshape-matrix) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-11-22 | [solution](problems/1101-select-all-rows) |
 | [Step-Size Selection for Tile Coding](https://www.deep-ml.com/problems/608) | easy | 2026-11-12 | [solution](problems/0608-step-size-selection-for-tile-coding) |
