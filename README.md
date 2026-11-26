@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 31 problems · 0 labs · 0 math
+**32** solved · 32 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-11-22 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-11-25 | [solution](problems/0020-decision-tree-learning) |
 | [Floor-Division and Modulo Folding for Index Math](https://www.deep-ml.com/problems/1513) | hard | 2026-11-14 | [solution](problems/1513-floor-division-and-modulo-folding-for-index-math) |
+| [Laplace-Approximate Bayesian Logistic Regression: Monte Carlo and Probit Predictives](https://www.deep-ml.com/problems/1809) | hard | 2026-11-26 | [solution](problems/1809-laplace-approximate-bayesian-logistic-regression-monte-carlo-and-probit-predictives) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-11-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-11-25 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
