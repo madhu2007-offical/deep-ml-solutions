@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T13:50:25.336Z",
+  "generated_at": "2026-11-28T13:50:53.162Z",
   "items": {
     "problem:489": {
       "kind": "problem",
@@ -426,7 +426,7 @@
       "url": "https://www.deep-ml.com/problems/1982",
       "path": "problems/1982-quantile-balancing-solve-for-the-per-expert-bias-from-score-quantiles-average-smooth-and-re-center",
       "first_solved_at": "2026-11-28T13:50:24.075Z",
-      "last_pushed_at": "2026-11-28T13:50:24.075Z",
+      "last_pushed_at": "2026-11-28T13:50:51.971Z",
       "language": "python",
       "lines": 70
     }
